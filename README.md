@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jiaqian Sun, you can call me Jasper as well.
-- 👋 I'm a FrontEnd and Mobile design&dev Student.
 - 👀 I’m interested in LEGO,K-Pop, TV Shows & Dramas (American,English,Chinese,Korean).
 - 🌱 I’m currently learning Mobiles & Webs Design and development.
 - 📫 How to reach me: Gmail@ jaspersun0106@gmail.com.
