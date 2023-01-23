@@ -4,7 +4,7 @@
 #### 📖 I am currently learning mobile applications & webs design and development.
 #### 🎯 I Hope to become a front-end or a full-stack developer.
 #### ❤ I love to listen K-Pops, TV Shows & Dramas.
-#### 🤩 Also a LEGO lover...
+#### 🤩 Also a LEGO Collector.
 
 ## 💻 My Tech Stack
 
