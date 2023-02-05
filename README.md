@@ -31,7 +31,7 @@
 ## 📞 Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/-jaspersun0106-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaspersun0106@gmail.com)](mailto:jaspersun0106@gmail.com)&nbsp;
-[![Instagram Badge](https://img.shields.io/badge/-@jjasper__s-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/jjasper__s)](https://instagram.com/jjasper__s)&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/-@jjasper__s-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/jjasper__s)](https://instagram.com/jaspers016)&nbsp;
 
 ## 📄 My Github Stats
 
